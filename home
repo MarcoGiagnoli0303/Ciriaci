@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Le mie foto</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      background-color: #fff;
+      padding: 20px;
+    }
+    img {
+      max-width: 90%;
+      height: auto;
+      margin: 20px 0;
+    }
+  </style>
+</head>
+<body>
+  <!-- Logo in alto -->
+  <img src="logo.jpg" alt="Logo" />
+
+  <!-- Foto -->
+  <img src="Tiziano1.jpg" alt="Foto 1" />
+  <img src="Tiziano2.jpg" alt="Foto 2" />
+  <img src="Tiziano3.jpg" alt="Foto 3" />
+</body>
+</html>
